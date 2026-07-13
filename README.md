@@ -12,9 +12,9 @@ library(devtools)
 install_github("DataSlingers/IMPACC")
 ```
 
-This package provide implementment of the `IMPACC` and  `MPCC` methods in R.
+This package implements the `IMPACC` and  `MPCC` methods in R.
 
-Gan, Luqin, and Genevera I. Allen. "Fast and Interpretable Consensus Clustering via Minipatch Learning." arXiv preprint arXiv:2110.02388 (2021).
+Gan, Luqin, and Genevera I. Allen. "Fast and Interpretable Consensus Clustering via Minipatch Learning." PLoS Comput Biol. 2022 Oct 3;18(10):e1010577. doi: 10.1371/journal.pcbi.1010577. PMID: 36191044; PMCID: PMC9560608.
 
 
 
